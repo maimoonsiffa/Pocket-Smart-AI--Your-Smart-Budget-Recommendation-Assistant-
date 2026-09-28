@@ -1,0 +1,2 @@
+# Pocket-Smart-AI--Your-Smart-Budget-Recommendation-Assistant-
+Here is the perfect description for your project *Pocket Smart AI - Your Smart Budget &amp; Recommendation Assistant*  You can use this for your GitHub README / Project Report:  1. Short Description (1 Line) > Pocket Smart AI is an intelligent personal finance assistant that analyzes your income and expenses to provide smart, personalized budget recom 
